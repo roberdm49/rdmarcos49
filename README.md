@@ -1,16 +1,23 @@
-### Hi there 👋
+## Bienvenido/a! 👋
 
-<!--
-**rdmarcos49/rdmarcos49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_(En proceso de construccion :hammer:)_
 
-Here are some ideas to get you started:
+Este es mi perfil de GitHub, donde estoy trabajando en algunos proyectos personales y en mi proyecto final de grado. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### En mi actual puesto como Web UI Developer utilizo:
+- React
+- Javascript
+- Sass
+
+### Tambien utilizo otras tecnologias, aunque aun las estoy aprendiendo como:
+- Typescript
+- Styled components
+- Storybook
+
+### Me gustaria tambien desarrollarme con:
+- Node.js
+- MongoDB
+
+### Conozco, ademas, otras tecnologias que he tenido la oportunidad de aprender en la facultad:
+- Java
+- PostgreSQL
