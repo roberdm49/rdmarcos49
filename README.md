@@ -11,7 +11,6 @@ Este es mi perfil de GitHub, donde estoy trabajando en algunos proyectos persona
 
 #### Tambien utilizo otras tecnologias, aunque aun las estoy aprendiendo como:
 - Typescript
-- Styled components
 - Storybook
 
 #### Me gustaria tambien desarrollarme con:
